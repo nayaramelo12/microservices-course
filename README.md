@@ -1,4 +1,5 @@
 # microservices-course
+##Configurações utilizadas no curso para a parte de docker
 
 # Criando e testando containers Docker
 
